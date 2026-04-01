@@ -1,0 +1,251 @@
+{
+  "site": {
+    "title": "Mountain Soul Foundation — Modern Mind, Ancient Roots",
+    "web3forms_access_key": "a9fd8db9-f82e-4639-bc7f-a1d300832d29",
+    "form_subject": "New Enquiry — Mountain Soul Foundation"
+  },
+
+  "nav": {
+    "logo_text": "Mountain",
+    "logo_text_accent": "Soul",
+    "logo_sub": "Foundation",
+    "logo_img": "images/logo.png",
+    "logo_img_alt": "Mountain Soul Foundation Logo",
+    "links": [
+      { "href": "#programs", "label": "Programs" },
+      { "href": "#approach", "label": "Our Approach" },
+      { "href": "#about",    "label": "About" },
+      { "href": "#contact",  "label": "Get Involved" }
+    ],
+    "cta_text": "Join Us",
+    "cta_href": "#contact"
+  },
+
+  "hero": {
+    "eyebrow": "Mountain Soul Foundation — Uttarkashi, Uttarakhand",
+    "headline_plain": "Modern Mind,",
+    "headline_em": "Ancient Roots",
+    "subline": "Education that heals. Culture that empowers. Development that sustains. A registered NGO born during COVID-19, reviving Devbhoomi Uttarakhand through experiential learning, women's empowerment, and cultural preservation.",
+    "btn_primary_text": "Get Involved →",
+    "btn_primary_href": "#contact",
+    "btn_ghost_text": "Our Approach",
+    "btn_ghost_href": "#approach",
+    "banner_img": "images/banner.jpg",
+    "banner_img_alt": "Mountain Soul Foundation",
+    "badge_label": "Registered NGO",
+    "badge_value": "October 2021"
+  },
+
+  "marquee": [
+    "Modern Mind", "Ancient Roots", "Village as Classroom", "NEP 2020 Aligned",
+    "Garhwal & Kumaon", "Kishan Ki Pathsala", "Saura Sari SHG", "Devbhoomi Uttarakhand"
+  ],
+
+  "stats": [
+    { "num": "5,000", "suffix": "+",  "label": "Lives Touched" },
+    { "num": "15",    "suffix": "+",  "label": "Villages Reached" },
+    { "num": "100",   "suffix": "+",  "label": "Trees Planted" },
+    { "num": "300",   "suffix": "L+", "label": "Kadha Distributed" }
+  ],
+
+  "programs": {
+    "section_tag": "What We Do",
+    "title_plain": "Our",
+    "title_em": "Programs",
+    "title_after": "& Initiatives",
+    "body": "Bridging modern education with ancient wisdom — making villages living classrooms and women the real knowledge holders of Devbhoomi Uttarakhand.",
+    "cards": [
+      {
+        "icon": "📚",
+        "num": "01",
+        "title": "Modern Mind, Ancient Roots",
+        "desc": "Our flagship experiential learning program takes school students to villages where they learn Biology, Chemistry, Physics and Social Science through traditional practices — aligned with NEP 2020 and Indian Knowledge Systems (IKS)."
+      },
+      {
+        "icon": "👩‍🌾",
+        "num": "02",
+        "title": "Women & SHG Empowerment",
+        "desc": "Village women of Saura Sari SHG are educators and leaders — teaching seed preservation, pickle making, leaf-plate (pattal) manufacturing, and rope making. Their knowledge earns dignity and income."
+      },
+      {
+        "icon": "🏅",
+        "num": "03",
+        "title": "Sports & Life Discipline",
+        "desc": "In partnership with MP Sports College, Dehradun — students experience football grounds, hockey fields, athletic tracks, shooting ranges, and Asia's first ice skating rink to build character, discipline, and resilience."
+      },
+      {
+        "icon": "🌿",
+        "num": "04",
+        "title": "Sustainability & Culture",
+        "desc": "100+ trees planted across 9 villages, Ganga Swachhata Abhiyan, Giloy Kadha distribution during COVID, and campaigns preserving Uttarakhand's festivals, food traditions, and indigenous knowledge systems."
+      }
+    ]
+  },
+
+  "approach": {
+    "section_tag": "How We Work",
+    "title_plain": "The Village as a",
+    "title_em": "Living School",
+    "body": "Learning by doing — an ancient and global philosophy. Every village is a unique education centre with teachers who have never been given a classroom.",
+    "steps": [
+      {
+        "num": "01",
+        "title": "Village as Classroom",
+        "desc": "Students are taken to real villages where farmers, women SHGs and elders become the teachers — reversing the traditional knowledge hierarchy."
+      },
+      {
+        "num": "02",
+        "title": "Kishan Ki Pathsala",
+        "desc": "Farmers teach full crop cycles, traditional irrigation (Gharat, Panchakki), soil health, natural fertilizers and weather reading — ancient science made alive."
+      },
+      {
+        "num": "03",
+        "title": "Culture Through Living",
+        "desc": "Students taste Jhangora and Mandua, wear traditional dress, witness rope-making and pattal crafts — culture is not taught as nostalgia, it is lived."
+      },
+      {
+        "num": "04",
+        "title": "The Gift of Dignity",
+        "desc": "Each student receives a Gift Pack made by SHG women — pickles, handicrafts and leaf plates — creating market linkage between village producers and urban consumers."
+      }
+    ]
+  },
+
+  "gallery": {
+    "section_tag": "Modern Mind, Ancient Roots — In the Field",
+    "title_plain": "Our Work in",
+    "title_em": "Action",
+    "photos": [
+      {
+        "src": "images/nature-walk.jpg",
+        "alt": "Nature Walk — Environmental Education",
+        "tag": "Environmental Education",
+        "title": "Nature Walk — Mountain Learning"
+      },
+      {
+        "src": "images/nature-walk1.jpeg",
+        "alt": "Nature Walk — Environmental Education",
+        "tag": "Environmental Education",
+        "title": "Nature Walk — Mountain Learning"
+      },
+      {
+        "src": "images/field-trip.jpg",
+        "alt": "Field Trip Dehradun 2026",
+        "tag": "Community Outreach",
+        "title": "Field Trip — Dehradun 2026"
+      },
+      {
+        "src": "images/field-trip1.jpeg",
+        "alt": "Field Trip Dehradun 2026",
+        "tag": "Community Outreach",
+        "title": "Field Trip — Dehradun 2026"
+      },
+      {
+        "src": "images/football-tournament.jpg",
+        "alt": "Football Tournament 2026",
+        "tag": "Sports & Fitness",
+        "title": "56th Memorial Football Tournament"
+      },
+      {
+        "src": "images/immunity-booster1.jpeg",
+        "alt": "COVID Time - Immunity Booster Kada",
+        "tag": "Foundation Story",
+        "title": "COVID Relief - Immunity Booster Kada"
+      }
+    ]
+  },
+
+  "about": {
+    "section_tag": "About Us",
+    "title_plain": "Born in the",
+    "title_em": "Toughest Time",
+    "img": "images/immunity-booster.jpeg",
+    "img_alt": "Mountain Soul Foundation in action",
+    "badge_num": "2021",
+    "badge_label": "Registered NGO",
+    "body": "Mountain Soul Foundation was born during COVID-19 in 2021. Manoj Prakash Jaguri, a native of Uttarkashi, inspired by his mother's resilience and the mountains' ancient wisdom, began distributing Giloy Kadha village to village. That act of care became a movement — and a registered NGO by October 2021.",
+    "quote": "\"The soul of the mountains can only be protected by empowering the people who live there.\"",
+    "quote_cite": "— Manoj Prakash Jaguri, Founder & President",
+    "list": [
+      "Founded 2021 — born during COVID-19, registered NGO October 2021",
+      "Active across Garhwal & Kumaon regions of Uttarakhand",
+      "Aligned with NEP 2020 and Indian Knowledge Systems (IKS)",
+      "Partner: MP Sports College Dehradun, Bright Public Junior High School",
+      "Programs: Education · Women Empowerment · Sports · Sustainability · Culture"
+    ],
+    "cta_text": "Partner With Us →",
+    "cta_href": "#contact"
+  },
+
+  "quote_banner": {
+    "text_plain": "\"Mountain Soul Foundation is not an organization that started with resources.",
+    "text_em": "responsibility.",
+    "text_before_em": "It started with",
+    "attr": "— Manoj Prakash Jaguri, Founder & President",
+    "stats": [
+      { "num": "Garhwal & Kumaon", "label": "Regions Active" },
+      { "num": "Oct 2021",         "label": "Registered NGO" },
+      { "num": "NEP 2020",         "label": "Aligned Programs" },
+      { "num": "5,000+",           "label": "Lives Touched" }
+    ]
+  },
+
+  "contact": {
+    "section_tag": "Get Involved",
+    "title_plain": "Join the",
+    "title_em": "Mountain Soul",
+    "title_after": "Movement",
+    "body": "Partner with us to bring experiential learning to schools, support SHG women, and help preserve the living culture of Uttarakhand.",
+    "info": [
+      { "label": "Phone",     "value": "📞 8533075292",             "href": "tel:8533075292" },
+      { "label": "Email",     "value": "mountainsouluk@gmail.com",   "href": "mailto:mountainsouluk@gmail.com" },
+      { "label": "Location",  "value": "Uttarkashi, Uttarakhand, India", "href": null },
+      { "label": "Instagram", "value": "@mountainsouluk",            "href": "https://instagram.com/mountainsouluk", "target": "_blank" },
+      { "label": "Hours",     "value": "Mon – Sat, 9 am – 6 pm",    "href": null }
+    ],
+    "ways": [
+      { "icon": "🏫", "title": "School Partnership", "desc": "Bring Modern Mind, Ancient Roots to your school" },
+      { "icon": "🤝", "title": "CSR Partnership",    "desc": "Align your CSR with our registered programs" },
+      { "icon": "🙋", "title": "Volunteer",           "desc": "Join our on-ground team across Uttarakhand" },
+      { "icon": "💛", "title": "Donate",              "desc": "Fund village programs and SHG training" }
+    ],
+    "form_title": "Send Us a Message",
+    "form_enquiry_options": [
+      "School Partnership", "Volunteer", "Donor / Sponsor",
+      "CSR Partnership", "Media / Press", "General Enquiry"
+    ]
+  },
+
+  "footer": {
+    "logo_img": "images/logo.png",
+    "brand_plain": "Mountain",
+    "brand_accent": "Soul",
+    "brand_after": "Foundation",
+    "tagline": "Born during COVID-19 in 2021. Rooted in Uttarkashi, serving communities across Uttarakhand with Modern Mind, Ancient Roots.",
+    "qr_img": "images/QR.png",
+    "qr_alt": "Donate QR Code",
+    "qr_label": "Donate",
+    "programs": [
+      { "label": "Modern Mind, Ancient Roots", "href": "#" },
+      { "label": "Kishan Ki Pathsala",         "href": "#" },
+      { "label": "Women & SHG Empowerment",    "href": "#" },
+      { "label": "Sports & Life Discipline",   "href": "#" },
+      { "label": "Cultural Preservation",      "href": "#" }
+    ],
+    "organisation": [
+      { "label": "About Us",      "href": "#about" },
+      { "label": "Our Approach",  "href": "#approach" },
+      { "label": "Gallery",       "href": "#gallery" },
+      { "label": "Contact",       "href": "#contact" }
+    ],
+    "contact": [
+      { "label": "mountainsouluk@gmail.com", "href": "mailto:mountainsouluk@gmail.com" },
+      { "label": "📞 8533075292",            "href": "tel:8533075292" },
+      { "label": "Uttarkashi, Uttarakhand",  "href": null },
+      { "label": "Mon–Sat 9am–6pm",          "href": null },
+      { "label": "@mountainsouluk",           "href": "https://instagram.com/mountainsouluk", "target": "_blank" }
+    ],
+    "copyright": "© 2026 Mountain Soul Foundation, Uttarkashi, Uttarakhand. Registered NGO 2021.",
+    "copyright_links": "Privacy Policy · Terms of Service"
+  }
+}
